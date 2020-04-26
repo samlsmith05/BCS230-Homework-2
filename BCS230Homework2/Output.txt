@@ -1,0 +1,18 @@
+Sales Report
+------------
+          First           Last     Sales
+          -----           ----     -----
+           Jane          Smith    100.00
+           Rose           Diaz    200.00
+           John       Williams    150.00
+        Felicia        Johnson    250.00
+            Ron          Davis     75.00
+
+Average Sales : 155.00
+Total Sales : 775.00
+
+Max Sales Name : Felicia Johnson
+Max Sales Amount : 250.00
+
+Min Sales Name : Ron Davis
+Min Sales Amount : 75.00

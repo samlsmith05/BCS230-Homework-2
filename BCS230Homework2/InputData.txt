@@ -1,0 +1,15 @@
+Jane 
+Smith 
+100
+Rose
+Diaz
+200
+John
+Williams 
+150
+Felicia
+Johnson
+250
+Ron
+Davis
+75
